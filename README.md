@@ -47,3 +47,5 @@ Scipy
 NumPy
 
 Jupyter Notebook
+
+![Project Badge](images/badge.png)
